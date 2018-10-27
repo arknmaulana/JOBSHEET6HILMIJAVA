@@ -23,9 +23,9 @@ int usia, absen;
         
         System.out.println("^^^^^^^^^^^^^^^");
         System.out.println("Nama Siswa: " + nama);
-        System.out.println("Alamat: " + alamat);
-        System.out.println("Absen: " + absen);
-        System.out.println("Usia: " + usia + " tahun");
+        System.out.println("Alamat Siswa: " + alamat);
+        System.out.println("Absen Siswa: " + absen);
+        System.out.println("Usia Siswa: " + usia + " tahun");
         
     }
 }
